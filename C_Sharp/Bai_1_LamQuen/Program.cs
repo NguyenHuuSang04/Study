@@ -49,7 +49,45 @@ namespace Bai_1_LamQuen
                 Console.WriteLine($"Number: {i}"); // Placeholder ( String format )
             }
 
+            //VÒng lặp foreach
+            string[] fruits = { "Apple", "Banana", "Cherry" };
+            foreach (string x in fruits) { 
+                Console.WriteLine(x); 
+            }
 
+            // Game đoán số
+            Random rand = new Random();
+            int randomNumber = rand.Next(1,101);
+            int guess = 0;
+
+            Console.WriteLine("Nhập số bạn đoán từ 1 - 100: ");
+            while (guess != randomNumber)
+            {
+                Console.Write("Bạn đoán: ");
+
+                try
+                {
+                    guess = int.Parse(Console.ReadLine()); // Đọc số tư người dùng
+                    if (guess > randomNumber)
+                    {
+                        Console.WriteLine("Nhỏ lại");
+                    }
+                    else if (guess < randomNumber)
+                    {
+                        Console.WriteLine("Lớn lên");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Chúc mừng bạn đã đoán trúng");
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Vui lòng nhập một số hợp lệ");
+                }
+            }
+
+            Console.WriteLine("Kết thúc trò chơi. Nhấn phím bất kỳ để thoát");
             Console.ReadKey();
         }
     }

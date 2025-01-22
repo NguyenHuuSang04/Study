@@ -5,3 +5,10 @@ C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\Bai_1_LamQ
 C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.csproj.CoreCompileInputs.cache
 C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.exe
 C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\bin\Debug\Bai_1_LamQuen.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\bin\Debug\Bai_1_LamQuen.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\bin\Debug\Bai_1_LamQuen.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_1_LamQuen\obj\Debug\Bai_1_LamQuen.pdb
