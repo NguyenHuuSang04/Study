@@ -46,15 +46,52 @@ namespace Bai_2_OPP_Basic
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-                //NgoaiLe();
-                try
-                {
-                    NgoaiLe2();
-                }
-                catch (ArithmeticException e)
-                {
-                    Console.WriteLine(e.Message);
-                }
+            ////NgoaiLe();
+            //try
+            //{
+            //    NgoaiLe2();
+            //}
+            //catch (ArithmeticException e)
+            //{
+            //    Console.WriteLine(e.Message);
+            //}
+
+            // Tạo đối tượng không truyền giá trị constructor default
+            SinhVien sinhVien1 = new SinhVien();
+           
+
+            // Xuất constructor default
+            Console.WriteLine(sinhVien1.TenSV);
+            Console.WriteLine(sinhVien1.MaSV);
+
+            // Tạo đối tượng truyền giá trị cho sv
+            SinhVien sinhVien2 = new SinhVien("22719241", "KTHH", 30);
+            Console.WriteLine("MSSV: " + sinhVien2.MaSV + " Tên sv: " + sinhVien2.TenSV);
+
+            //4. Phương thức Tostring
+            Console.WriteLine(sinhVien1.ToString());
+            Console.WriteLine(sinhVien2.ToString());
+
+            sinhVien1.XuatThongTin();
+            sinhVien2.XuatThongTin();
+            Console.WriteLine(sinhVien2.Tong(1.5, 2, 3));
+
+            // Parametter list
+            Console.WriteLine(sinhVien2.TBKTHocKy(1,2,3,4,5,6,7,8,10));
+
+            //Auto-Implemented Properties
+            HocSinh hocSinh1 = new HocSinh();
+            HocSinh hocSinh2 = new HocSinh();
+            hocSinh1.Name = "Hương";
+            hocSinh1.Email = "123@gmail.com";
+            hocSinh1.Password = "13/05/2004";
+
+            hocSinh2.Name = "Sang";
+
+            Console.WriteLine(hocSinh1);
+            Console.WriteLine(hocSinh2);
+
+
             Console.ReadKey();
         }
        

@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_2_opp_basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_2_opp_basic\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|solutionrelative:hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_2_opp_basic\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847AA26A-8C15-4657-8D82-73644D1FFCC4}|Bai_2_OPP_Basic.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 35,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\HocSinh.cs",
+              "RelativeDocumentMoniker": "HocSinh.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\HocSinh.cs",
+              "RelativeToolTip": "HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T06:37:04.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\SinhVien.cs",
+              "RelativeToolTip": "SinhVien.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwGcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:36:53.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T07:10:11.702Z",
               "EditorCaption": ""

@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\bin\Debug\Bai_3_KeThua.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\bin\Debug\Bai_3_KeThua.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\bin\Debug\Bai_3_KeThua.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\obj\Debug\Bai_3_KeThua.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\obj\Debug\Bai_3_KeThua.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\obj\Debug\Bai_3_KeThua.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_3_KeThua\obj\Debug\Bai_3_KeThua.pdb
