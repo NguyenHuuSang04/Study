@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\bin\Debug\Bai_4_OPP_TiepTheo.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\bin\Debug\Bai_4_OPP_TiepTheo.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\bin\Debug\Bai_4_OPP_TiepTheo.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\obj\Debug\Bai_4_OPP_TiepTheo.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\obj\Debug\Bai_4_OPP_TiepTheo.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\obj\Debug\Bai_4_OPP_TiepTheo.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_4_OPP_TiepTheo\obj\Debug\Bai_4_OPP_TiepTheo.pdb

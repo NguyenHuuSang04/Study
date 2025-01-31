@@ -10,5 +10,12 @@ namespace Bai_3_KeThua
     {
         // Khai báo thêm thuộc tính ca ngày, ca đem
         public string Ca {  get; set; }
+
+        // Phương thức tính lương của nhân viên di ca
+        public new double TinhLuong()
+        {
+            return base.TinhLuong() * 1.05; // base.TinhLuong() gọi lại giá trị tinhLuong ở nhanVien ( 1000 )
+        }
+            
     }
 }

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_3_kethua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_3_kethua\\nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_3_kethua\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_3_kethua\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_3_kethua\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{744E4BD1-49F4-404B-A75F-49B1F22E57CC}|Bai_3_KeThua.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 35,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T07:09:42.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NhanVienDiCa.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVienDiCa.cs",
-              "RelativeDocumentMoniker": "NhanVienDiCa.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVienDiCa.cs",
-              "RelativeToolTip": "NhanVienDiCa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T07:12:24.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVien.cs",
-              "RelativeDocumentMoniker": "NhanVien.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVien.cs",
-              "RelativeToolTip": "NhanVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T07:11:04.17Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,9 +44,60 @@
               "RelativeDocumentMoniker": "NhanVienHanhChinh.cs",
               "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVienHanhChinh.cs",
               "RelativeToolTip": "NhanVienHanhChinh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T07:11:47.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienDiCa.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVienDiCa.cs",
+              "RelativeDocumentMoniker": "NhanVienDiCa.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVienDiCa.cs",
+              "RelativeToolTip": "NhanVienDiCa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:12:24.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:09:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVien.cs",
+              "RelativeDocumentMoniker": "NhanVien.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\NhanVien.cs",
+              "RelativeToolTip": "NhanVien.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:11:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_3_KeThua\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-01-26T03:04:29.57Z",
               "EditorCaption": ""
             }
           ]

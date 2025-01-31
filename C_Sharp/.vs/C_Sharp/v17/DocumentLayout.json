@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai_2_OPP_Basic\\SinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\HocSinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai_2_OPP_Basic\\HocSinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\SinhVien.cs",
-              "RelativeDocumentMoniker": "Bai_2_OPP_Basic\\SinhVien.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\SinhVien.cs",
-              "RelativeToolTip": "Bai_2_OPP_Basic\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Bai_2_OPP_Basic\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\HocSinh.cs",
+              "RelativeToolTip": "Bai_2_OPP_Basic\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T02:30:16.979Z",
+              "WhenOpened": "2025-01-27T03:45:32.367Z",
               "EditorCaption": ""
             },
             {
@@ -45,10 +45,9 @@
               "RelativeDocumentMoniker": "Bai_2_OPP_Basic\\Program.cs",
               "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_2_OPP_Basic\\Program.cs",
               "RelativeToolTip": "Bai_2_OPP_Basic\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T07:20:52.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T03:45:55.696Z"
             }
           ]
         }

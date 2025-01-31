@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bai_3_KeThua.NhanVien">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAQAAAIAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_3_KeThua.NhanVienHanhChinh">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienHanhChinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_3_KeThua.NhanVienDiCa">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienDiCa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
