@@ -7,11 +7,19 @@
       "RelativeMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_5_delegate_envent\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_5_delegate_envent\\me.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|solutionrelative:me.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_5_delegate_envent\\children.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|solutionrelative:children.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|solutionrelative:button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|c:\\users\\hpp\\documents\\1_programme\\2_developgame\\4_c#\\1_study\\c_sharp\\c_sharp\\bai_5_delegate_envent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7464DE60-72C3-4F42-A304-8D055193EB27}|Bai_5_Delegate_Envent.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,28 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Button.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Button.cs",
-              "RelativeDocumentMoniker": "Button.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Button.cs",
-              "RelativeToolTip": "Button.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Children.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Children.cs",
+              "RelativeDocumentMoniker": "Children.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Children.cs",
+              "RelativeToolTip": "Children.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T02:15:04.624Z",
+              "WhenOpened": "2025-02-07T07:49:43.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Event.cs",
-              "RelativeDocumentMoniker": "Event.cs",
-              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Event.cs",
-              "RelativeToolTip": "Event.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Me.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Me.cs",
+              "RelativeDocumentMoniker": "Me.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Me.cs",
+              "RelativeToolTip": "Me.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T01:59:13.571Z",
+              "WhenOpened": "2025-02-07T07:45:43.533Z",
               "EditorCaption": ""
             },
             {
@@ -62,10 +70,34 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T01:44:17.515Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Button.cs",
+              "RelativeDocumentMoniker": "Button.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Button.cs",
+              "RelativeToolTip": "Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:15:04.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\HPP\\Documents\\1_Programme\\2_DevelopGame\\4_C#\\1_Study\\C_Sharp\\C_Sharp\\Bai_5_Delegate_Envent\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:59:13.571Z"
             }
           ]
         }

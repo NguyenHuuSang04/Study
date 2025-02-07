@@ -44,13 +44,24 @@ namespace Bai_5_Delegate_Envent
             //Event.TriggerEvent("Bạn có một tin nhắn mới");
 
 
-            //Phần 3: Button
-            Button btn = new Button();
+            ////Phần 3: Button
+            //Button btn = new Button();
 
-            //Đăng ký phương thức xử lý sự kiện
-            btn.OnClick += ButtonClicked;
+            ////Đăng ký phương thức xử lý sự kiện
+            //btn.OnClick += ButtonClicked;
 
-            btn.Click(); // Giả lập người dùng bấm nút
+            //btn.Click(); // Giả lập người dùng bấm nút
+
+
+            // Phần 4: Mẹ con
+            Me me = new Me();
+            Children con = new Children();
+
+            // 4: đăng ký sự kiện: Khi mẹ gọi, con sẽ xuống ăn
+            me.OnComChin += con.XuongAn;
+
+            // 5: mẹ nấu cơm
+            me.NauCom();
 
 
             Console.ReadKey();

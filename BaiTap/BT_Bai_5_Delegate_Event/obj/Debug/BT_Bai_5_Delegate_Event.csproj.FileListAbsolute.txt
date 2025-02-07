@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\bin\Debug\BT_Bai_5_Delegate_Event.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\bin\Debug\BT_Bai_5_Delegate_Event.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\bin\Debug\BT_Bai_5_Delegate_Event.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\obj\Debug\BT_Bai_5_Delegate_Event.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\obj\Debug\BT_Bai_5_Delegate_Event.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\obj\Debug\BT_Bai_5_Delegate_Event.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_Delegate_Event\obj\Debug\BT_Bai_5_Delegate_Event.pdb

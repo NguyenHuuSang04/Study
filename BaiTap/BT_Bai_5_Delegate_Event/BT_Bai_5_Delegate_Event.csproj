@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7464DE60-72C3-4F42-A304-8D055193EB27}</ProjectGuid>
+    <ProjectGuid>{9D5F1B5D-3231-4B90-A63B-2F0B4C6B525A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai_5_Delegate_Envent</RootNamespace>
-    <AssemblyName>Bai_5_Delegate_Envent</AssemblyName>
+    <RootNamespace>BT_Bai_5_Delegate_Event</RootNamespace>
+    <AssemblyName>BT_Bai_5_Delegate_Event</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,9 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Button.cs" />
-    <Compile Include="Children.cs" />
-    <Compile Include="Event.cs" />
-    <Compile Include="Me.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
