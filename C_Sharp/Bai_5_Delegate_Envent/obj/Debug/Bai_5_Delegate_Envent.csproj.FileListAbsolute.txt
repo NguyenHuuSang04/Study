@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\bin\Debug\Bai_5_Delegate_Envent.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\bin\Debug\Bai_5_Delegate_Envent.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\bin\Debug\Bai_5_Delegate_Envent.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\obj\Debug\Bai_5_Delegate_Envent.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\obj\Debug\Bai_5_Delegate_Envent.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\obj\Debug\Bai_5_Delegate_Envent.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\C_Sharp\Bai_5_Delegate_Envent\obj\Debug\Bai_5_Delegate_Envent.pdb
