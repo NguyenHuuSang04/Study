@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\bin\Debug\BT_Bai_5_PhimBam.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\bin\Debug\BT_Bai_5_PhimBam.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\bin\Debug\BT_Bai_5_PhimBam.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\obj\Debug\BT_Bai_5_PhimBam.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\obj\Debug\BT_Bai_5_PhimBam.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\obj\Debug\BT_Bai_5_PhimBam.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_PhimBam\obj\Debug\BT_Bai_5_PhimBam.pdb

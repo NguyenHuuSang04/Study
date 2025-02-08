@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\bin\Debug\BT_Bai_5_DongHo_1s.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\bin\Debug\BT_Bai_5_DongHo_1s.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\bin\Debug\BT_Bai_5_DongHo_1s.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\obj\Debug\BT_Bai_5_DongHo_1s.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\obj\Debug\BT_Bai_5_DongHo_1s.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\obj\Debug\BT_Bai_5_DongHo_1s.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Bai_5_DongHo_1s\obj\Debug\BT_Bai_5_DongHo_1s.pdb
