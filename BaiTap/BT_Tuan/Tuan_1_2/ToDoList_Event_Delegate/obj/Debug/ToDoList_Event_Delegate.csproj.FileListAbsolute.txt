@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\bin\Debug\ToDoList_Event_Delegate.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\bin\Debug\ToDoList_Event_Delegate.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\bin\Debug\ToDoList_Event_Delegate.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\obj\Debug\ToDoList_Event_Delegate.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\obj\Debug\ToDoList_Event_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\obj\Debug\ToDoList_Event_Delegate.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ToDoList_Event_Delegate\obj\Debug\ToDoList_Event_Delegate.pdb

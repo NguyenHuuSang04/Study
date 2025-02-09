@@ -1,0 +1,7 @@
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\bin\Debug\ChuongTrinhDoanSo.exe.config
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\bin\Debug\ChuongTrinhDoanSo.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\bin\Debug\ChuongTrinhDoanSo.pdb
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\obj\Debug\ChuongTrinhDoanSo.csproj.AssemblyReference.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\obj\Debug\ChuongTrinhDoanSo.csproj.CoreCompileInputs.cache
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\obj\Debug\ChuongTrinhDoanSo.exe
+C:\Users\HPP\Documents\1_Programme\2_DevelopGame\4_C#\1_Study\C_Sharp\BaiTap\BT_Tuan\Tuan_1_2\ChuongTrinhDoanSo\obj\Debug\ChuongTrinhDoanSo.pdb
